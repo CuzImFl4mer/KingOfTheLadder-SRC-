@@ -1,0 +1,7 @@
+name: KingOfTheLadder
+author: CuzImFl4mer
+version: 1.2
+main: de.CuzImFl4mer.Kotl.Main
+
+commands:
+   kingoftheladder:
